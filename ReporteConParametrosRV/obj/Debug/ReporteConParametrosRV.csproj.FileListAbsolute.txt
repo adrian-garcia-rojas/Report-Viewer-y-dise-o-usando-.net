@@ -1,0 +1,3 @@
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametros\ReporteConParametrosEF\bin\Debug\ReporteConParametrosEF.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametros\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametros\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.pdb

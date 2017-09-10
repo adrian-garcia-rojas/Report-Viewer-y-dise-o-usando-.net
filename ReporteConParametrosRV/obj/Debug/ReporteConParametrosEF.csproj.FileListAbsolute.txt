@@ -1,0 +1,14 @@
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\bin\Debug\ReporteConParametrosEF.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\bin\Debug\ReporteConParametrosEF.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\bin\Debug\ReporteConParametrosEF.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.Form1.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\RdlCompile.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametrosEF\ReporteConParametrosEF\obj\Debug\RdlCompile.compiled
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametros\ReporteConParametrosEF\bin\Debug\ReporteConParametrosEF.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametros\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\ReporteConParametros\ReporteConParametrosEF\obj\Debug\ReporteConParametrosEF.pdb
